@@ -9,12 +9,12 @@ particles:1
 bobView:false
 anaglyph3d:false
 advancedOpengl:false
-maxFps:260
+maxFps:460
 fboEnable:true
 difficulty:2
 fancyGraphics:false
 ao:0
-clouds:true
+clouds:false
 resourcePacks:[]
 lastServer:
 lang:en_US
